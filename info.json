@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "54ed9f978279bafa5b94d7145fc3d6424d49dabd",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2020-11-10 19:58:46",
+    "files": 2,
+    "merge": false,
+    "message": "add gh actions badge to readme\n"
+  },
+  "remote": "https://github.com/ropensci/rredlist",
+  "pkg": "rredlist"
+}
