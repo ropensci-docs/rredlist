@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "69f503b7b74d77067fc684d74f2525cae20e2fd2",
+    "author": "Will Gearty <willgearty@gmail.com>",
+    "time": "2022-11-10 14:55:57",
+    "files": 10,
+    "merge": false,
+    "message": "Ready for CRAN submission\n"
+  },
+  "repo": "https://github.com/ropensci/rredlist",
+  "pkg": "rredlist"
+}
