@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "4013bbecfe172b98c37d85cf11fcf7360b6a2398",
+    "author": "William Gearty <willgearty@gmail.com>",
+    "time": "2024-10-23 21:53:58",
+    "files": 2,
+    "merge": false,
+    "message": "Document unexported functions\n"
+  },
+  "repo": "https://github.com/ropensci/rredlist",
+  "pkg": "rredlist"
+}
