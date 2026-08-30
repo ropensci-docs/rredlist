@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "b79f10f287b004cbfa765da170df7a3154efc08f",
+    "author": "William Gearty <willgearty@gmail.com>",
+    "time": "2025-09-04T13:32:27Z",
+    "files": 2,
+    "merge": false,
+    "message": "Increment version number to 1.1.1.9000\n"
+  },
+  "repo": "https://github.com/ropensci/rredlist",
+  "pkg": "rredlist",
+  "time": "2026-08-30T07:43:00Z"
+}
